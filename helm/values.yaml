@@ -1,0 +1,4 @@
+image:
+  registry: docker.io
+  repository: nginx
+  tag: "1.25.0"
