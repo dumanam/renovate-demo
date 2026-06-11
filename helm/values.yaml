@@ -1,4 +1,4 @@
 image:
   registry: docker.io
   repository: nginx
-  tag: "1.25.0"
+  tag: "1.31.1@sha256:1df1a963b5b8a3315c81c9d3c6fbd3324479a16c5e266bc6642c080be636145f"
