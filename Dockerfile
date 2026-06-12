@@ -1,1 +1,1 @@
-FROM armada.azurecr.io/chainguard/nginx-fips:1.30
+FROM armada.azurecr.io/chainguard/nginx-fips:1.30@sha256:4af0d4c6bd4edb1dba5818a65208ed77bed22811b6343b570b94fcc2dd6c5c9d
