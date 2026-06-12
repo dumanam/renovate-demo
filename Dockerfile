@@ -1,1 +1,1 @@
-FROM nginx:1.25.0
+FROM armada.azurecr.io/chainguard/nginx-fips:1.30

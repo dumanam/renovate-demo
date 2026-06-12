@@ -1,4 +1,4 @@
 image:
-  registry: docker.io
-  repository: nginx
-  tag: "1.25.0"
+  registry:  armada.azurecr.io
+  repository: chainguard/nginx-fips
+  tag: "1.30"
